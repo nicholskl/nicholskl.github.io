@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nicholskl.github.io/sitemap.xml
