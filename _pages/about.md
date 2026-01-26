@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Kristopher Nichols
 permalink: /
 nav: false
 subtitle: Ph.D. Candidate, <a href='https://psych.princeton.edu/'>Department of Psychology</a>, Princeton University
