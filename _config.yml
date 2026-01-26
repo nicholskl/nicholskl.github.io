@@ -4,15 +4,15 @@
 
 title: Kristopher Nichols
 first_name: Kristopher
-middle_name: 
+middle_name:
 last_name: Nichols
 description: PhD Candidate in Psychology at Princeton University.
-keywords: social learning, risk, democratic norms, 
+keywords: social learning, risk, democratic norms,
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ 
-url: https://nicholskl.github.io 
-baseurl: 
-last_updated: true 
+icon: ⚛️
+url: https://nicholskl.github.io
+baseurl:
+last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
